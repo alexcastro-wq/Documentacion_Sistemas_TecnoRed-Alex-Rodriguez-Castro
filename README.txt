@@ -1,0 +1,1 @@
+Este proyecto consiste en una serie de archivos de texto que explican conceptos básicos de informática utilizados en una empresa, como el inventario de un ordenador, la red local, los usuarios y las copias de seguridad.

@@ -1,0 +1,7 @@
+Inventario de un PC de empresa:
+CPU: Intel core i5 10ª generación
+Procesador AMD: Ryzen 5 3600 3ª generación
+RAM: 16GB 
+Disco: 512GB SSD
+Sistema operativo: Windows 11 Pro
+Este ordenador se utiliza para tareas administrativas y de oficina dentro de la empresa.
